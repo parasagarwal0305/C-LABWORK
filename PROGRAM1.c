@@ -22,5 +22,4 @@ int main ()
     
     }
 }
-///////////////////////// last program //////////////////
-// 4 no. me se sab se bada konsa hai 
+
